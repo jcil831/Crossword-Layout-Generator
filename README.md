@@ -1,3 +1,13 @@
+# Reflections for Assignment 1
+
+GitHub provides a variety of tools to help search for projects. While we can not search directly for code complexity or value, we can apply filters to our search that have some correlation with what we are looking for. In my search I used four terms to narrow down the results, these were "topic:javascript", "topic:open-source", "stars:<100", and "forks:>10". This worked well to give many small but
+interesting or useful projects I could pick from for this assignment.
+
+As I have not worked with JavaScript before, I was wary of picking a project too complex and then being unable to amend it to Neutralinojs. I found a simple crossword generator with only two main files, a HTML and a JavaScript. Making this project run as a Neutralinojs application was unexpectedly simple, requiring only one path change in the HTML. If I was to do this project again I would likely try
+to find a slightly more complicated project so as to hopefully experience a few errors and see what if any features are not compatible with Neutralinojs.
+
+# ---- Original ReadMe ----
+
 # Crossword Layout Generator - Open Source
 ## Introduction
 A crossword consists of clues, answers, and a layout:
